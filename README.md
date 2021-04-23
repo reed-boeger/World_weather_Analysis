@@ -1,1 +1,2 @@
 # World_weather_Analysis
+## The purpose of this module challenge was to find make a database of hotels meeting a certain criteria, make a map of those hotels, and then find a vacation itenerary of 4 different cities and create a directional route on a map using the gmaps directions API. We chose a vacation destination in the Phillipines for the purpose of this excercise.
